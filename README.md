@@ -19,6 +19,8 @@
 
 5. Основы JavaScript в браузере https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(5).pdf
 
-6. Продвинутый JavaScript и основы https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(6).pdf
+6. Продвинутый JavaScript и основы React https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(6).pdf
 
 7. Git - система контроля версий https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(3).pdf
+
+8.Введение в Node.JS, библиотека Express.js https://github.com/Kirill-Shikov/certificate/blob/main/certificate7.pdf
