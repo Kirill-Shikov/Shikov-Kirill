@@ -53,5 +53,6 @@
 <details>
   <summary> связаться (раскрыть список)</summary>
 * Email: rbhz2806@mail.ru
+  
 * Telegram: @K_Shik
-<details>
+</details>
