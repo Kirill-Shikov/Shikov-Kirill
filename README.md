@@ -1,7 +1,5 @@
 # 👋 Привет! Я Шиков Кирилл, веб‑разработчик (Frontend)
 
-![Typing SVG](https://readme-typing-gif.herokuapp.com/?text=Создаю%20адаптивные%20интерфейсы%20с%20акцентом%20на%20UX)
-
 ## 🛠️ Мой стек технологий
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://www.w3.org/html/)
@@ -52,3 +50,6 @@
 ---
 
 ## 🤝 Как со мной связаться
+
+* Email: rbhz2806@mail.ru
+* Telegram: @K_Shik
