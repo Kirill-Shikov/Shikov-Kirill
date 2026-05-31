@@ -49,6 +49,14 @@
 
 ---
 
+## 📊 Моя активность
+
+![Kirill-Shikov's stats](https://github-readme-stats.vercel.app/api?username=Kirill-Shikov&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill-Shikov&layout=compact&theme=radical)
+
+
+---
+
 ## 🤝 Как со мной связаться
 
 * Email: rbhz2806@mail.ru
