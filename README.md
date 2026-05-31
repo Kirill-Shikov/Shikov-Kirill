@@ -70,5 +70,5 @@
   
 * Email: rbhz2806@mail.ru
   
-* Telegram: @K_Shik
+* Telegram: [K_Shik](https://t.me/K_Shik)
 </details>
