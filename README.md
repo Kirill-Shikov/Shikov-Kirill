@@ -11,7 +11,6 @@
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
 
 
 
@@ -37,6 +36,17 @@
 
 
 ## Вот, что я умею
+
+* Создавать адаптивные веб‑интерфейсы с использованием **React** и **Next.js**.
+* Разрабатывать фронтенд по архитектуре **FSD (Feature‑Sliced Design)** для масштабируемых проектов.
+* Верстать с применением **SCSS/SASS**: использовать переменные, миксины, модульность.
+* Писать типизированный код на **TypeScript** для повышения надёжности приложений.
+* Реализовывать управление состоянием с помощью **Redux**.
+* Настраивать сборку проектов через **Webpack** и обеспечивать качество кода с помощью **ESLint**.
+* Создавать REST API на **Node.js** с использованием **Express.js** и **Nest.js**.
+* Работать с базами данных: **PostgreSQL** (реляционные схемы) и **MongoDB** (документоориентированные).
+* Интегрировать фронтенд с бэкендом, обрабатывать ошибки.
+* Использовать **Git** для контроля версий и организации рабочего процесса.
 
 ## 🔗 Мои проекты
 
