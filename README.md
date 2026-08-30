@@ -48,12 +48,16 @@
 * Интегрировать фронтенд с бэкендом, обрабатывать ошибки.
 * Использовать **Git** для контроля версий и организации рабочего процесса.
 
+---
+
 ## 🔗 Мои проекты
 
 1. Итоговые работы - https://github.com/Kirill-Shikov/final-work
 2. Дипломная работа
    * Frontend [GitHub] (https://github.com/Kirill-Shikov/-Fullstack--JavaScript-Front)
    * Backend  [GitHub] (https://github.com/Kirill-Shikov/-Fullstack--JavaScript-)
+  
+---
 
 ## Сертификаты (Нетология)
 
