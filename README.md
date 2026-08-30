@@ -1,4 +1,4 @@
-# 👋 Привет! Я Шиков Кирилл, веб‑разработчик (Frontend)
+# 👋 Привет! Я Шиков Кирилл, веб‑разработчик Full‑stack(Frontend,Backend)
 
 ## 🛠️ Мой стек технологий
 
@@ -9,7 +9,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
+
+
+
 
 ### Сборка и качество кода
 
@@ -23,13 +28,22 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-009485?logo=express&logoColor=white)](https://expressjs.com/)
+[![Nest.js](https://img.shields.io/badge/Nest.js-E21F29?logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 
 ---
 
 
 ## Вот, что я умею
 
+## 🔗 Мои проекты
+
 1. Итоговые работы - https://github.com/Kirill-Shikov/final-work
+2. Дипломная работа
+   * Frontend [GitHub] (https://github.com/Kirill-Shikov/-Fullstack--JavaScript-Front)
+   * Backend  [GitHub] (https://github.com/Kirill-Shikov/-Fullstack--JavaScript-)
 
 ## Сертификаты (Нетология)
 
@@ -40,31 +54,31 @@
    → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate.pdf)
 
 2. **Адаптивная и мобильная вёрстка** — создание интерфейсов для разных устройств, Flexbox и Grid
-   → [Сертификат] https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(1).pdf
+   → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(1).pdf)
 
 3. **Основы программирования** — базовые концепции, алгоритмы, структуры данных
-   → [Сертификат] https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(2).pdf
+   → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(2).pdf)
 
 4. **Основы JavaScript** — синтаксис, типы данных, функции, работа с DOM
-   → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(4).pdf
+   → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(4).pdf)
 
 5. **JavaScript в браузере** — работа с событиями, AJAX, взаимодействие с API
-   → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(5).pdf
+   → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(5).pdf)
 
 6. **Продвинутый JavaScript и основы React** — хуки, компоненты, управление состоянием
-   → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(6).pdf
+   → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(6).pdf)
 
 7. **Git — система контроля версий** — работа с ветками, пул‑реквестами, разрешение конфликтов
-   → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(3).pdf
+   → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(3).pdf)
 
 8. **Введение в Node.js и Express.js** — основы серверной разработки, создание простых веб‑серверов и API
-  → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate7.pdf
+  → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate7.pdf)
 
 9. **TypeScript, Nest.js, Yandex Cloud** — разработка масштабируемых приложений, работа с облачными сервисами
-  → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(7).pdf
+  → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(7).pdf)
 
 10. **Веб-разработчик с нуля: Backendразработка на JavaScript** — полный цикл создания серверной части веб‑приложений
-  → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(8).pdf
+  → [Сертификат] (https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(8).pdf)
 
 </details>
 
@@ -78,4 +92,5 @@
 * Email: [rbhz2806@mail.ru](mailto:rbhz2806@mail.ru)
   
 * Telegram: [K_Shik](https://t.me/K_Shik)
+* Max: (https://max.ru/u/f9LHodD0cOLTa_h-PkD61OgTYHeVauyQUVlczDdZ4ugjPJOb1z_1X2NMV-g)
 </details>
