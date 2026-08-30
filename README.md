@@ -59,6 +59,13 @@
 
 8. **Введение в Node.js и Express.js** — основы серверной разработки, создание простых веб‑серверов и API
   → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate7.pdf
+
+9. **TypeScript, Nest.js, Yandex Cloud** — разработка масштабируемых приложений, работа с облачными сервисами
+  → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(7).pdf
+
+10. **Веб-разработчик с нуля: Backendразработка на JavaScript** — полный цикл создания серверной части веб‑приложений
+  → [Сертификат]https://github.com/Kirill-Shikov/certificate/blob/main/certificate%20(8).pdf
+
 </details>
 
 
