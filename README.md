@@ -92,5 +92,5 @@
 * Email: [rbhz2806@mail.ru](mailto:rbhz2806@mail.ru)
   
 * Telegram: [K_Shik](https://t.me/K_Shik)
-* Max: (https://max.ru/u/f9LHodD0cOLTa_h-PkD61OgTYHeVauyQUVlczDdZ4ugjPJOb1z_1X2NMV-g)
+* Max: [max](https://max.ru/u/f9LHodD0cOLTa_h-PkD61OgTYHeVauyQUVlczDdZ4ugjPJOb1z_1X2NMV-g)
 </details>
