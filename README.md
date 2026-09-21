@@ -20,6 +20,8 @@
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)](https://webpack.js.org/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Jest Code Coverage](https://img.shields.io/badge/Jest%20Coverage-black?logo=jest&logoColor=white)](https://jestjs.io/)
+
 
 
 ### Backend / Full‑stack
